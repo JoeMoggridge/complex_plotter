@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1350922261 source:c:\users\jo\google drive\programming\exersise1\problem 1\complex plotter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+
+1350918661 source:c:\users\jo\google drive\programming\complex plotter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<complex.h>
+
